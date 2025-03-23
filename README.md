@@ -7,7 +7,7 @@ it is simple to implement,easy to understand.
 
 Demo Download App : [Click Here](https://drive.google.com/file/d/1ZWB_HUyxm86T6GtpMhTWbOwuw6i7G4Wp/view?usp=sharing)
 
-[<img src="media/SPARKWOMEN.png" />](https://t.me/vinayak_09)
+[<img src="media/SPARKWOMEN.png" />]
 
 
 
